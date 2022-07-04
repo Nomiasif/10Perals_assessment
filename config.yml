@@ -1,0 +1,12 @@
+'env':
+  'qa':
+    'ui':
+      'base_url': 'https://www.saucedemo.com/'
+      'username': 'standard_user'
+      'password': 'secret_sauce'
+  'prod':
+    'ui':
+      'base_url': ''
+      'username': ''
+      'password': ''
+'execution_env': qa
